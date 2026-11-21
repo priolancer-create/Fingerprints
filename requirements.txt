@@ -1,0 +1,5 @@
+Flask>=3.0,<4
+requests>=2.31,<3
+dnspython>=2.6,<3
+phonenumbers>=8.13
+rich>=13.7
